@@ -1,0 +1,5 @@
+{
+  "name": "MoodBoard AI",
+  "description": "A context-aware recommendation system that generates personalized mood boards for users by combining graph-based user-item embeddings with multimodal representations of pins (images + text).",
+  "requestFramePermissions": []
+}
